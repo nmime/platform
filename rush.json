@@ -2162,6 +2162,16 @@
       "shouldPublish": false
     },
     {
+      "packageName": "@hcengineering/gitlab",
+      "projectFolder": "services/gitlab/gitlab",
+      "shouldPublish": false
+    },
+    {
+      "packageName": "@hcengineering/pod-gitlab",
+      "projectFolder": "services/gitlab/pod-gitlab",
+      "shouldPublish": false
+    },
+    {
       "packageName": "@hcengineering/server-github",
       "projectFolder": "services/github/server-github",
       "shouldPublish": false
